@@ -9,6 +9,13 @@
 
 - 🌱My name is Cleilson, the Padawan of the code and curious polimata research 💬
 
+📫 How to reach me:
+
+- Twiter: [@marcialwushu](https://twitter.com/marcialwushu)
+- Linkedin: [cleilson-pereira](https://www.linkedin.com/in/cleilson-pereira-b2aaaa35/)
+- My Site: [https://cleilsontechinfo.netlify.app](https://cleilsontechinfo.netlify.app/)
+- CV: [marcialwushu.github.io](https://marcialwushu.github.io/)
+
 <!--
 **marcialwushu/marcialwushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
