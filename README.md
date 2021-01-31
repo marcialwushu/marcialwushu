@@ -31,4 +31,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcialwushu&show_icons=true" width="45%" alt="bergpb" align='left' />
+### Analytics ⚙️
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcialwushu&hide_border=true)
+
+
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcialwushu&count_private=true&show_icons=true" alt="marcialwushu"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcialwushu&layout=compact&langs_count=8"/>
+</a>
+</p>
